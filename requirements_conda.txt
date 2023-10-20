@@ -1,0 +1,9 @@
+pytorch==1.12.0a0
+torchvision==0.13.0a0
+numpy
+monai==0.9.1
+nibabel==4.0.1
+pytorch-ignite==0.4.9
+tqdm==4.64.0
+wandb
+faiss-cpu
